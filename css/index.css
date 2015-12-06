@@ -1,0 +1,86 @@
+.body{
+    font-family: 'cooper';
+}
+#hezi{
+    width: 1300px;
+    height:900px;
+    background:#108E3A;
+    margin: 20px  auto;
+    position: relative;
+    border: 1px solid black;
+    /*margin-top: 20px;*/
+
+}
+.pai {
+    width: 140px;
+    height:190px ;
+    border: 1px solid blueviolet;
+    position: absolute;
+    background: #4C64AE;
+    /*opacity: 0.8;*/
+    box-shadow: 0 0 8px #060412;
+    border-radius: 8px;
+    margin-left: 50px;
+    color: white;
+    font-size: 2em;
+    background-size: cover;
+}
+
+
+#dipail{
+     width: 140px;
+     height:190px ;
+     border: 1px solid blueviolet;
+    box-shadow: 0 0 8px #060412;
+     position: absolute;
+     bottom: 230px;
+     left: 200px;
+ }
+#dipair{
+    width: 140px;
+    height:190px ;
+    border: 1px solid blueviolet;
+    box-shadow: 0 0 8px #060412;
+    position: absolute;
+    bottom: 230px;
+    right: 200px;
+}
+.l-poker, .r-poker {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    font-size: 2em;
+    position: absolute;
+}
+#btn{
+    width: 80px;
+    height: 40px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 350px;
+    left: 580px;
+    border-radius: 6px;
+    box-shadow: 0 0 6px red;
+    font-size: 2em;
+    color: black;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+ }
+#btn1{
+    width: 80px;
+    height: 40px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 300px;
+    left: 580px;
+    border-radius: 6px;
+    box-shadow: 0 0 6px red;
+    font-size: 2em;
+    color: black;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+}
